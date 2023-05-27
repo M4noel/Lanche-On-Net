@@ -4,7 +4,6 @@ Model-View-Controller (MVC), utilizando Vue.js no front-end, Node.js como back-e
 
 ## Project setup
 ```
-na pasta front e back 
 npm install
 ```
 
